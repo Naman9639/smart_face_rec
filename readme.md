@@ -34,24 +34,6 @@ The project also requires [Tkinter](https://docs.python.org/2/library/tkinter.ht
 * [Tkinter](https://docs.python.org/2/library/tkinter.html) - GUI Implementation
 * [Numpy](http://www.numpy.org/) - Used to manage computaions.
 
-## Authors
-
-* **Ishan Roy**
-* **Shivangi Singh**
-* **Harshit Rastogi**
-* **Kartikeya Mishra**
-* **Akash Unni**
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-The following blogs helped in coding up this project:
-* http://bytefish.de/blog/videofacerec/
-* http://hanzratech.in/2015/02/03/face-recognition-using-opencv.html
-
 Refer the following papers for understanding the algorithms used:
 * [Rapid Object Detection Using Boosted Cascade of Simple Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
 * [Eigenfaces vs Fisherfaces: Recognition using Class Specific Linear Projection](http://www.face-rec.org/algorithms/LDA/belhumeur96eigenfaces.pdf)
