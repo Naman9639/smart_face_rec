@@ -33,8 +33,3 @@ The project also requires [Tkinter](https://docs.python.org/2/library/tkinter.ht
 * [OpenCV](http://docs.opencv.org/3.1.0/) - Implementation of Algorithms
 * [Tkinter](https://docs.python.org/2/library/tkinter.html) - GUI Implementation
 * [Numpy](http://www.numpy.org/) - Used to manage computaions.
-
-Refer the following papers for understanding the algorithms used:
-* [Rapid Object Detection Using Boosted Cascade of Simple Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
-* [Eigenfaces vs Fisherfaces: Recognition using Class Specific Linear Projection](http://www.face-rec.org/algorithms/LDA/belhumeur96eigenfaces.pdf)
-* [Local Binary Patterns and Its Application to Facial Image Analysis: A Survey](http://liris.cnrs.fr/Documents/Liris-5004.pdf).
